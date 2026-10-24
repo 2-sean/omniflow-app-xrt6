@@ -1,7 +1,7 @@
 {
   "name": "Omniflow fullstack Product",
   "version": "1.0.0",
-  "description": "Omniflow fullstack project  ",
+  "description": "Omniflow fullstack project   ",
   "main": "server.ts",
   "scripts": {
     "dev": "tsx watch backend/server.ts",
